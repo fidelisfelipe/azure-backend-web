@@ -1,1 +1,5 @@
+### local hello world
 GET http://localhost:8080/api/index/hello
+
+### cloud hello world
+GET https://fidelisdev.azurewebsites.net/api/index/hello
